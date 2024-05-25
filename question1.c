@@ -6,7 +6,7 @@ int main() {
     char op;
     
     // Leap year check
-//riyaPal
+//kartikSingh
   //rollNo:2303511530009
     printf("Enter a year: ");
     scanf("%d", &year);
